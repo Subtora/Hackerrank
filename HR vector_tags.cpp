@@ -1,4 +1,4 @@
-#if 0
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -18,13 +18,4 @@ int main(){
         std::cout << i << std::endl;
     }
     
-} 
-#endif
-
-#include <iostream>
-#include <string>
-
-int main(){
-    std::cout << "hello"<<std::endl;
-    return 0;
 }
